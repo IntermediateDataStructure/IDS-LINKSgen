@@ -1,4 +1,4 @@
-Since 13 January 2025, the IDS maintains the most recent version of the script.
+Since 13 January 2025, the IDS maintains the most recent version of this script.
 
 This script was written to transform LINKS-IDS into LINKS-gen, as discussed in https://doi.org/10.51964/hlcs9310
 
